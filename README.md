@@ -1,0 +1,2 @@
+# litecoin
+Dockerfile for litecoin
